@@ -20,3 +20,11 @@ rad.json
 *.flf
 #Test results file
 TestResults.xml
+# .gitignore
+copy_files.sh
+*manual*.py
+*test*.py
+*tst*.py
+.env
+__pycache__/
+*.pyc
